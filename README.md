@@ -1,9 +1,9 @@
-## Hi, I'm Sara 👋
+## Hi, I'm Sara
 
-QA engineer moving into AI/ML testing. I'm working through a five-project
-arc on one question: **how do you test systems that don't give the same
+QA engineer moving into AI/ML testing. I'm working through five projects
+on one question: **how do you test systems that don't give the same
 answer twice?** Each project has its own repo, a write-up, and one focused
-theme. Project 0 is the precursor that set the testing bar the rest follow.
+theme. Project 0 came first - it's where I worked out how I test the rest.
 
 ### The portfolio
 
@@ -16,5 +16,5 @@ theme. Project 0 is the precursor that set the testing bar the rest follow.
 | 4 | Agent Testing | Tool use, decision chains, multi-step traces | *planned* | - | - |
 | 5 | Model Benchmarking | Cost / latency / quality across providers | *planned* | - | - |
 
-Project 0 set the bar; projects 1-5 are the arc. Projects 0-2 are shipped,
-project 3 (red-teaming) is in progress - I'll update this as each one lands.
+Projects 0-2 are shipped, project 3 (red-teaming) is in progress - I'll
+update this as each one lands.
