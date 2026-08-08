@@ -5,9 +5,9 @@ on one question: **how do you test systems that don't give the same
 answer twice?** Each project has its own repo, a write-up, and one focused
 theme.
 
-### The portfolio
+### The projects
 
-| # | Project | What it's about | Repo | Article | Post |
+| # | Project | About | Repo | Article | Post |
 |---|---|---|---|---|---|
 | 0 | LLM API Testing *(precursor)* | Testing a non-deterministic FastAPI + LLM API | [repo](https://github.com/sbezjak/llm-api-testing) | [dev.to](https://dev.to/sara_bezjak/a-qa-engineers-first-ai-testing-project-fastapi-local-llm-pytest-5b1c) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_a-qa-engineers-first-ai-testing-project-share-7453403711353241600-Ghbg/) |
 | 1 | LLM Eval Harness | Scoring non-deterministic output - 5 scorers, calibration, bias | [repo](https://github.com/sbezjak/llm-eval-harness) | [dev.to](https://dev.to/sara_bezjak/five-ways-to-test-an-llms-answer-and-what-each-one-misses-5k2) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_five-ways-to-test-an-llms-answer-and-what-share-7462437884919226368-7tnD/) |
