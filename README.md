@@ -14,7 +14,7 @@ theme.
 | 2 | RAG + Observability | Retrieval correctness, hallucination, drift | [repo](https://github.com/sbezjak/llm-rag) | [dev.to](https://dev.to/sara_bezjak/search-bug-or-model-bug-testing-a-rag-system-to-tell-them-apart-2fa7) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_search-bug-or-model-bug-testing-a-rag-system-share-7470045953647972352-YiOx/) |
 | 3 | Red Team Test Suite | Prompt injection, jailbreaks, OWASP LLM Top 10 | [repo](https://github.com/sbezjak/llm-red) | [dev.to](https://dev.to/sara_bezjak/the-hard-part-of-attacking-an-ai-isnt-breaking-it-its-telling-real-harm-from-fake-9ca) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_the-hard-part-of-attacking-an-ai-isnt-breaking-share-7478745951218614272-okBk/) |
 | 4 | Agent Testing | Tool use, decision chains, multi-step traces | [repo](https://github.com/sbezjak/llm-agent) | [dev.to](https://dev.to/sara_bezjak/with-an-ai-agent-the-answer-is-the-last-place-the-bug-shows-up-4kgb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_with-an-ai-agent-the-answer-is-the-last-share-7483782228104237062-RaiK/) |
-| 5 | Model Benchmarking | Cost / latency / quality across providers | [repo](https://github.com/sbezjak/llm-benchmark) | *in progress* | - |
+| 5 | Model Benchmarking | Cost / latency / quality across providers | [repo](https://github.com/sbezjak/llm-benchmark) | [dev.to](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_a-benchmark-is-only-as-good-as-the-model-activity-7496181344872513536-deUq/) |
 
-Projects 0-4 are shipped, project 5 (model benchmarking) is last - I'll
-update this as it lands.
+All five projects are shipped. Next up isn't a project - it's an article on what
+the whole series taught me about working with the model, not just testing it.
