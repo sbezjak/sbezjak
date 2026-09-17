@@ -1,8 +1,6 @@
-## Hi, I'm Sara
+## Hi, I'm Sara 
 
-QA engineer moving into AI/ML testing. I'm working through five projects
-on one question: **how do you test systems that don't give the same
-answer twice?** Each project has its own repo, a write-up, and one focused
+QA engineer moving into AI/ML testing. I'm working through projects, each one has its own repo, a write-up, and one focused
 theme.
 
 ### The projects
