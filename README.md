@@ -1,9 +1,8 @@
 ## Hi, I'm Sara 
 
-QA engineer moving into AI/ML testing. I'm working through projects, each one has its own repo, a write-up, and one focused
-theme.
+QA engineer moving into AI/ML testing. Each project has a repo, a write-up, and one focused theme.
 
-### The projects
+### AI testing projects
 
 | # | Project | About | Repo | Article | Post |
 |---|---|---|---|---|---|
@@ -14,15 +13,12 @@ theme.
 | 4 | Agent Testing | Tool use, decision chains, multi-step traces | [repo](https://github.com/sbezjak/llm-agent) | [dev.to](https://dev.to/sara_bezjak/with-an-ai-agent-the-answer-is-the-last-place-the-bug-shows-up-4kgb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_with-an-ai-agent-the-answer-is-the-last-share-7483782228104237062-RaiK/) |
 | 5 | Model Benchmarking | Cost / latency / quality across providers | [repo](https://github.com/sbezjak/llm-benchmark) | [dev.to](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_a-benchmark-is-only-as-good-as-the-model-activity-7496181344872513536-deUq/) |
 
-All five projects are shipped. The capstone isn't a project - it's what the
-whole series taught me about working *with* the model, not just testing it:
-**[The model said it read the report. It didn't.](https://dev.to/sara_bezjak/the-model-said-it-read-the-report-it-didnt-12a6)**
+All five are shipped. The capstone is what they taught me about working *with* the model, not just testing it: **[The model said it read the report. It didn't.](https://dev.to/sara_bezjak/the-model-said-it-read-the-report-it-didnt-12a6)**
 
 ### Fine-tuning
 
-The five projects above are about testing models. This one is different - I
-trained a model myself, then tested whether I could trust what it did.
+The projects above test models. Here I trained one myself, then tested if I could trust it.
 
 | Project | About | Repo | Article | Post |
 |---|---|---|---|---|
-| Fine-Tuning (Content Moderation) | Fine-tuning a moderation model on a laptop, then testing whether the result holds up | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
+| Fine-Tuning (Content Moderation) | Training a moderation model, then testing if I can trust it | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
