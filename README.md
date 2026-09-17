@@ -17,3 +17,12 @@ theme.
 All five projects are shipped. The capstone isn't a project - it's what the
 whole series taught me about working *with* the model, not just testing it:
 **[The model said it read the report. It didn't.](https://dev.to/sara_bezjak/the-model-said-it-read-the-report-it-didnt-12a6)**
+
+### Fine-tuning
+
+The five projects above are about testing models. This one is different - I
+trained a model myself, then tested whether I could trust what it did.
+
+| Project | About | Repo | Article | Post |
+|---|---|---|---|---|
+| Fine-Tuning (Content Moderation) | Fine-tuning a moderation model on a laptop, then testing whether the result holds up | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
