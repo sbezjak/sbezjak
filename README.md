@@ -1,6 +1,6 @@
 ## Hi, I'm Sara 
 
-QA engineer moving into AI/ML testing. Each project has a repo, a write-up, and one focused theme.
+QA engineer moving into AI/ML testing. I test where an AI system can be trusted and where it breaks. Each project has a repo, a write-up, and one focused theme.
 
 ### AI testing projects
 
