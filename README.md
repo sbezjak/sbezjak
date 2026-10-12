@@ -21,4 +21,4 @@ The projects above test models. Here I trained one myself, then tested if I coul
 
 | Project | About | Repo | Article | Post |
 |---|---|---|---|---|
-| Fine-Tuning (Content Moderation) | Training a moderation model, then testing if I can trust it | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
+| Fine-Tuning (Content Moderation) | LoRA fine-tune, data prep, before/after eval | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
