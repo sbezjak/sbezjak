@@ -1,6 +1,6 @@
 ## Hi, I'm Sara 
 
-Software & QA engineer moving into AI/ML testing. I learn by building, and I like checking that things actually work.
+Software & QA engineer moving into AI/ML testing. I learn by building, and I like checking that things actually work - including the checker.
 
 ### AI testing projects
 
@@ -22,3 +22,11 @@ The projects above test models. Here I trained one myself, then tested if I coul
 | Project | About | Repo | Article | Post |
 |---|---|---|---|---|
 | Fine-Tuning (Content Moderation) | LoRA fine-tune, data prep, before/after eval | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
+
+### Testing models against their own rules
+
+Does a model's verdict actually follow its stated reasons? The first probe catches AI judges that say the outcome doesn't matter, then score it anyway.
+
+| Project | About | Repo | Article | Post |
+|---|---|---|---|---|
+| Judge Outcome-Bias Probe | Same agent run, only the outcome changed - does the judge's score move? | [repo](https://github.com/sbezjak/judge-outcome-bias-probe) | [dev.to](https://dev.to/sara_bezjak/your-ai-judge-might-be-grading-luck-not-decisions-c2p) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_an-ai-coding-agent-upgrades-a-library-and-share-7516808895030427649-zRb2/) |
