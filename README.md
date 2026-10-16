@@ -23,7 +23,7 @@ The projects above test models. Here I trained one myself, then tested if I coul
 |---|---|---|---|---|
 | Fine-Tuning (Content Moderation) | LoRA fine-tune, data prep, before/after eval | [repo](https://github.com/sbezjak/fine-tuning-cm) | [dev.to](https://dev.to/sara_bezjak/fine-tuning-a-content-moderation-model-on-a-laptop-is-easy-trusting-the-result-is-not-50fb) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_fine-tuning-a-content-moderation-model-on-activity-7503372226734469120-RCpX) |
 
-### Testing models against their own rules
+### Theory testing
 
 Does a model's verdict actually follow its stated reasons? The first probe catches AI judges that say the outcome doesn't matter, then score it anyway.
 
