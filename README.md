@@ -29,4 +29,4 @@ Does a model's verdict actually follow its stated reasons? The first probe catch
 
 | Project | About | Repo | Article | Post |
 |---|---|---|---|---|
-| Judge Outcome-Bias Probe | Same agent run, only the outcome changed - does the judge's score move? | [repo](https://github.com/sbezjak/judge-outcome-bias-probe) | [dev.to](https://dev.to/sara_bezjak/your-ai-judge-might-be-grading-luck-not-decisions-c2p) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_an-ai-coding-agent-upgrades-a-library-and-share-7516808895030427649-zRb2/) |
+| Judge Outcome-Bias Probe | LLM-as-judge outcome bias - paired agent runs, outcome-only variation, judge-free scoring | [repo](https://github.com/sbezjak/judge-outcome-bias-probe) | [dev.to](https://dev.to/sara_bezjak/your-ai-judge-might-be-grading-luck-not-decisions-c2p) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_an-ai-coding-agent-upgrades-a-library-and-share-7516808895030427649-zRb2/) |
