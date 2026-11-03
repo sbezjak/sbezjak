@@ -32,6 +32,6 @@ Does a model's verdict actually follow its stated reasons? The first probe catch
 | Judge Outcome-Bias Probe | Every Claude model said the outcome shouldn't change the score, then scored the same decision lower when it went wrong | [repo](https://github.com/sbezjak/judge-outcome-bias-probe) | [dev.to](https://dev.to/sara_bezjak/your-ai-judge-might-be-grading-luck-not-decisions-c2p) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_an-ai-coding-agent-upgrades-a-library-and-share-7516808895030427649-zRb2/) |
 | Interpretability Grounds Testing | Taking one direction out where the outcome enters cut 70% of the extra blame, then worked once and flipped once on new stories | [repo](https://github.com/sbezjak/interpretability-grounds-testing) | [dev.to](https://dev.to/sara_bezjak/i-looked-inside-a-small-ai-model-to-find-where-luck-changes-its-answer-4d5g) | [LinkedIn](https://www.linkedin.com/posts/sara-bezjak_i-tried-interpretability-for-the-first-time-share-7523342698624274432-5yhe/) |
 
-### Away from the keyboard
+### Not about AI
 
 I write travel stories as scrolling photo-essays at [sara-expeditions.com](https://sara-expeditions.com) — built on Astro, [source here](https://github.com/sbezjak/sara-expeditions).
