@@ -34,4 +34,4 @@ Does a model's verdict actually follow its stated reasons? The first probe catch
 
 ### Travel stories
 
-I write travel stories as scrolling photo-essays at [sara-expeditions.com](https://sara-expeditions.com).
+I write travel stories at [sara-expeditions.com](https://sara-expeditions.com).
